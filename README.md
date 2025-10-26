@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ![](https://raw.githubusercontent.com/deW1/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/deW1/stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/deW1/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/deW1/stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **deW1/deW1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
